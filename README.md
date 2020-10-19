@@ -1,7 +1,7 @@
 # The-Hunt
 A 2D RPG Game made with Unity.
 
-#Collaborators
+# Collaborators
 -AYLLON Jorge
 -BENARD Antoine
 -CAI Emilie
